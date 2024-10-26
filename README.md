@@ -2,10 +2,10 @@
 
 ## Requisitos
 
-Node v20 (node --version)
-Angular Cli v17 (ng version)
-.NET Framework 4.7.2
-Visual Studio 2022
+- Node v20 (node --version)
+- Angular Cli v17 (ng version)
+- .NET Framework 4.7.2
+- Visual Studio 2022
 
 ## Como executar
 
